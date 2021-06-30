@@ -1,0 +1,7 @@
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\GameProperties\bin\Debug\GameProperties.dll.config
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\GameProperties\bin\Debug\GameProperties.dll
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\GameProperties\bin\Debug\GameProperties.pdb
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\GameProperties\obj\Debug\GameProperties.csproj.CoreCompileInputs.cache
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\GameProperties\obj\Debug\GameProperties.dll
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\GameProperties\obj\Debug\GameProperties.pdb
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\GameProperties\obj\Debug\GameProperties.csprojAssemblyReference.cache

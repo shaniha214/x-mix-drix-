@@ -1,0 +1,18 @@
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\View\bin\Debug\View.dll.config
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\View\bin\Debug\View.dll
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\View\bin\Debug\View.pdb
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\View\obj\Debug\View.SettingsForm.resources
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\View\obj\Debug\View.dll
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\View\obj\Debug\View.pdb
+C:\Users\reuth\AppData\Local\Temp\Temp1_B21 Ex05 Shani 205814593 Reut 209272251.zip\B21 Ex05 Shani 205814593 Reut 209272251\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\shani\Downloads\B21 Ex05 Shani 205814593 Reut 209272251 (1)\B21 Ex05 Shani 205814593 Reut 209272251\View\bin\Debug\View.dll.config
+C:\Users\shani\Downloads\B21 Ex05 Shani 205814593 Reut 209272251 (1)\B21 Ex05 Shani 205814593 Reut 209272251\View\bin\Debug\View.dll
+C:\Users\shani\Downloads\B21 Ex05 Shani 205814593 Reut 209272251 (1)\B21 Ex05 Shani 205814593 Reut 209272251\View\bin\Debug\View.pdb
+C:\Users\shani\Downloads\B21 Ex05 Shani 205814593 Reut 209272251 (1)\B21 Ex05 Shani 205814593 Reut 209272251\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\shani\Downloads\B21 Ex05 Shani 205814593 Reut 209272251 (1)\B21 Ex05 Shani 205814593 Reut 209272251\View\obj\Debug\View.SettingsForm.resources
+C:\Users\shani\Downloads\B21 Ex05 Shani 205814593 Reut 209272251 (1)\B21 Ex05 Shani 205814593 Reut 209272251\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\shani\Downloads\B21 Ex05 Shani 205814593 Reut 209272251 (1)\B21 Ex05 Shani 205814593 Reut 209272251\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\shani\Downloads\B21 Ex05 Shani 205814593 Reut 209272251 (1)\B21 Ex05 Shani 205814593 Reut 209272251\View\obj\Debug\View.dll
+C:\Users\shani\Downloads\B21 Ex05 Shani 205814593 Reut 209272251 (1)\B21 Ex05 Shani 205814593 Reut 209272251\View\obj\Debug\View.pdb
